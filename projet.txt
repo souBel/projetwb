@@ -1,10 +1,11 @@
 - Client -
 
-accueil
+accueil (soufiane) : tenter de faire un formulaire (demande de connexion...), esthétique graphique --> CSS
 detailJeu
 connexion (mail, mdp) 
 inscription (mail, mdp, nom, prenom, adresse, age)
 reservation
+form_recherche
 
 - Administration - 
 
