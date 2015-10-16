@@ -1,0 +1,19 @@
+- Client -
+
+accueil
+detailJeu
+connexion (mail, mdp) 
+inscription (mail, mdp, nom, prenom, adresse, age)
+reservation
+
+- Administration - 
+
+connexion administration
+ajout jeu (nom, age, type, joueur, stock, lieu)
+modification jeu
+suppression jeu
+
+suppression / bloquer membres
+
+affichage jeu
+affichage membre
